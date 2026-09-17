@@ -4,7 +4,7 @@
 
 **Disease/Phenotype**: Factor V Leiden Thrombophilia
 
-**Gene:** F5
+**Gene:** F5 
 
 **Reference Transcript Accession:** NM_000130.4
 
@@ -16,4 +16,4 @@
 
 **Galaxy History Name:** Romano_F5_Gene_Mutation_Lab
 
-**Date of Analysis:** September 15,2026
+**Date of Analysis:** September 15 & 17,2026
